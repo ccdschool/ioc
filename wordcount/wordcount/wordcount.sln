@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordcount", "wordcount/wordcount.csproj", "{520210F2-4FB8-4F28-9790-1C59F82025DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordcount.tests", "wordcount.tests\wordcount.tests.csproj", "{B05684CE-D319-4084-97D8-E4DC89A50D5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{520210F2-4FB8-4F28-9790-1C59F82025DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520210F2-4FB8-4F28-9790-1C59F82025DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520210F2-4FB8-4F28-9790-1C59F82025DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520210F2-4FB8-4F28-9790-1C59F82025DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05684CE-D319-4084-97D8-E4DC89A50D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05684CE-D319-4084-97D8-E4DC89A50D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05684CE-D319-4084-97D8-E4DC89A50D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05684CE-D319-4084-97D8-E4DC89A50D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
